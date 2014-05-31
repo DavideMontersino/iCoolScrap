@@ -2,7 +2,9 @@
 
 A simple scraper for iCoolHunt.com - based on Scrapy: http://www.scrapy.org
 
-It will scrap an arbitrary number of preys even if results are paginated by 20
+It scrapes data from the explore page and from the prey details  page.
+
+It will scrape an arbitrary number of preys even if results are paginated by 20
 
 ## Usage
 ```bash
